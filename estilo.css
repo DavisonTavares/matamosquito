@@ -13,18 +13,18 @@ body {
 }
 
 .mosquito1 {
-	width: 50px;
-	height: 50px;
+	width: 5%;
+	max-width: 7%;
 }
 
 .mosquito2 {
-	width: 70px;
-	height: 70px;
+	width: 7%;
+	max-height: 9%;
 }
 
 .mosquito3 {
-	width: 90px;
-	height: 90px;
+	width: 9%;
+	max-height: 11%;
 }
 
 .ladoA {
