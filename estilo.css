@@ -13,17 +13,17 @@ body {
 }
 
 .mosquito1 {
-	width: 5%;
+	max-width: 5%;
 	max-width: 7%;
 }
 
 .mosquito2 {
-	width: 7%;
+	max-width: 7%;
 	max-height: 9%;
 }
 
 .mosquito3 {
-	width: 9%;
+	max-width: 9%;
 	max-height: 11%;
 }
 
